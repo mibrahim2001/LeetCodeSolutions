@@ -1,16 +1,16 @@
-#LeetCodeSolutions
+# LeetCodeSolutions
 
-Welcome to the LeetCodeSolutions repository! Here, you will find solutions to various problems on [LeetCode](https://leetcode.com/).
+Welcome to the LeetCodeSolutions repository! If you're like me, you've probably found yourself stuck on a problem on [LeetCode](https://leetcode.com/) and wished you had a resource to turn to for help. Well, that's exactly what this repository is for! Here, you will find solutions to various problems on LeetCode, along with explanations of the thought process behind each solution.
 
-##Why this repository?
+## Why this repository?
 
 LeetCode is a popular platform for preparing for coding interviews and improving your coding skills. However, sometimes it can be helpful to see multiple solutions to a problem, or to have a resource to refer to when you get stuck. This repository aims to provide a collection of solutions to LeetCode problems that can be used for these purposes.
 
-##How to use this repository
+## How to use this repository
 
-You can browse through the solutions in this repository by going to the Solutions directory and looking for the problem you are interested in. Each solution will have its own directory with a Explanation.md file that explains the solution in more detail.
+You can browse through the solutions in this repository by going to the [Solutions](https://github.com/mibrahim2001/LeetCodeSolutions/tree/master/Solutions) directory and looking for the problem you are interested in. Each solution will have its own directory with a Explanation.md file that explains the solution in more detail.
 
-##How to contribute
+## How to contribute
 
 If you would like to contribute to this repository, here are the steps you can follow:
 
@@ -29,21 +29,25 @@ If you would like to contribute to this repository, here are the steps you can f
 4. Commit your changes and push them to your fork of the repository:
 
    `git add .`
+   
    `git commit -m "Add solution for <problem-name>"`
+   
    `git push origin <problem-name>`
+   
    (replace <problem-name> with the name of the problem you are adding a solution for)
 
 5. Create a pull request by going to your fork of the repository and clicking the "New pull request" button. This will create a pull request that will allow me to review your changes and merge them into the main repository.
 
 6. Wait for your pull request to be reviewed and merged.
 
-##Benefits of contributing
+## Benefits of contributing
 
 There are several benefits to contributing to this repository:
 
-- You can help others who are preparing for coding interviews or working on improving their coding skills.
-- You can improve your own skills by writing solutions and explaining your thought process.
-- You can get feedback on your solutions from other contributors.
-- You can add your solutions to your portfolio to show potential employers.
+- You'll be helping out other LeetCode users who are stuck on the same problem you solved. There's no better feeling than being able to help someone else out!
+- You'll get the chance to practice explaining your thought process, which is a valuable skill to have as a programmer.
+- You'll receive feedback on your solution from other contributors, which can help you become a better coder.
+- You'll have another item to add to your portfolio, showing potential employers that you're actively working to improve your skills.
+- You'll be thankful to yourself if you contribute on daily basis because you will improve your skill for sure but in addition to that your github profile will look    amazing thanks to these daily contributions.
 
-  Thank you for considering contributing to this repository!
+Thank you for considering contributing to this repository!
