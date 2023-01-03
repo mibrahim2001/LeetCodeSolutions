@@ -29,7 +29,9 @@ If you would like to contribute to this repository, here are the steps you can f
 4. Commit your changes and push them to your fork of the repository:
 
    `git add .`
+   
    `git commit -m "Add solution for <problem-name>"`
+   
    `git push origin <problem-name>`
    
    (replace <problem-name> with the name of the problem you are adding a solution for)
