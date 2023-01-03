@@ -1,6 +1,6 @@
 # LeetCodeSolutions
 
-Welcome to the LeetCodeSolutions repository! Here, you will find solutions to various problems on [LeetCode](https://leetcode.com/).
+Welcome to the LeetCodeSolutions repository! If you're like me, you've probably found yourself stuck on a problem on [LeetCode](https://leetcode.com/) and wished you had a resource to turn to for help. Well, that's exactly what this repository is for! Here, you will find solutions to various problems on LeetCode, along with explanations of the thought process behind each solution.
 
 ## Why this repository?
 
@@ -44,9 +44,10 @@ If you would like to contribute to this repository, here are the steps you can f
 
 There are several benefits to contributing to this repository:
 
-- You can help others who are preparing for coding interviews or working on improving their coding skills.
-- You can improve your own skills by writing solutions and explaining your thought process.
-- You can get feedback on your solutions from other contributors.
-- You can add your solutions to your portfolio to show potential employers.
+- You'll be helping out other LeetCode users who are stuck on the same problem you solved. There's no better feeling than being able to help someone else out!
+- You'll get the chance to practice explaining your thought process, which is a valuable skill to have as a programmer.
+- You'll receive feedback on your solution from other contributors, which can help you become a better coder.
+- You'll have another item to add to your portfolio, showing potential employers that you're actively working to improve your skills.
+- You'll be thankful to yourself if you contribute on daily basis because you will improve your skill for sure but in addition to that your github profile will look    amazing thanks to these daily contributions.
 
 Thank you for considering contributing to this repository!
