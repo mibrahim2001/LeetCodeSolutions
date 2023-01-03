@@ -47,4 +47,4 @@ There are several benefits to contributing to this repository:
 - You can get feedback on your solutions from other contributors.
 - You can add your solutions to your portfolio to show potential employers.
 
-  Thank you for considering contributing to this repository!
+Thank you for considering contributing to this repository!
