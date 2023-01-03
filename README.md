@@ -1,16 +1,16 @@
-#LeetCodeSolutions
+# LeetCodeSolutions
 
 Welcome to the LeetCodeSolutions repository! Here, you will find solutions to various problems on [LeetCode](https://leetcode.com/).
 
-##Why this repository?
+## Why this repository?
 
 LeetCode is a popular platform for preparing for coding interviews and improving your coding skills. However, sometimes it can be helpful to see multiple solutions to a problem, or to have a resource to refer to when you get stuck. This repository aims to provide a collection of solutions to LeetCode problems that can be used for these purposes.
 
-##How to use this repository
+## How to use this repository
 
 You can browse through the solutions in this repository by going to the Solutions directory and looking for the problem you are interested in. Each solution will have its own directory with a Explanation.md file that explains the solution in more detail.
 
-##How to contribute
+## How to contribute
 
 If you would like to contribute to this repository, here are the steps you can follow:
 
@@ -38,7 +38,7 @@ If you would like to contribute to this repository, here are the steps you can f
 
 6. Wait for your pull request to be reviewed and merged.
 
-##Benefits of contributing
+## Benefits of contributing
 
 There are several benefits to contributing to this repository:
 
