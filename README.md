@@ -8,7 +8,7 @@ LeetCode is a popular platform for preparing for coding interviews and improving
 
 ## How to use this repository
 
-You can browse through the solutions in this repository by going to the Solutions directory and looking for the problem you are interested in. Each solution will have its own directory with a Explanation.md file that explains the solution in more detail.
+You can browse through the solutions in this repository by going to the [Solutions](https://github.com/mibrahim2001/LeetCodeSolutions/tree/master/Solutions) directory and looking for the problem you are interested in. Each solution will have its own directory with a Explanation.md file that explains the solution in more detail.
 
 ## How to contribute
 
