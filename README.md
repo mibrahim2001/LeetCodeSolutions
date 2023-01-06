@@ -8,7 +8,7 @@ LeetCode is a popular platform for preparing for coding interviews and improving
 
 ## How to use this repository
 
-You can browse through the solutions in this repository by going to the [Solutions](https://github.com/mibrahim2001/LeetCodeSolutions/tree/master/Solutions) directory and looking for the problem you are interested in. Each solution will have its own directory with a Explanation.md file that explains the solution in more detail.
+You can browse through the solutions in this repository by going to the [Solutions](https://github.com/mibrahim2001/LeetCodeSolutions/tree/master/Solutions) directory and looking for the problem you are interested in. Each solution will have its own directory with a README.md file that explains the solution in more detail.
 
 ## How to contribute
 
@@ -29,11 +29,11 @@ If you would like to contribute to this repository, here are the steps you can f
 4. Commit your changes and push them to your fork of the repository:
 
    `git add .`
-   
+
    `git commit -m "Add solution for <problem-name>"`
-   
+
    `git push origin <problem-name>`
-   
+
    (replace <problem-name> with the name of the problem you are adding a solution for)
 
 5. Create a pull request by going to your fork of the repository and clicking the "New pull request" button. This will create a pull request that will allow me to review your changes and merge them into the main repository.
@@ -48,6 +48,6 @@ There are several benefits to contributing to this repository:
 - You'll get the chance to practice explaining your thought process, which is a valuable skill to have as a programmer.
 - You'll receive feedback on your solution from other contributors, which can help you become a better coder.
 - You'll have another item to add to your portfolio, showing potential employers that you're actively working to improve your skills.
-- You'll be thankful to yourself if you contribute on daily basis because you will improve your skill for sure but in addition to that your github profile will look    amazing thanks to these daily contributions.
+- You'll be thankful to yourself if you contribute on daily basis because you will improve your skill for sure but in addition to that your github profile will look amazing thanks to these daily contributions.
 
 Thank you for considering contributing to this repository!
