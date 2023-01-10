@@ -53,7 +53,7 @@ class Solution {
         // recurse first on the left part then on the right part
         list.addAll(preorderTraversal(root.left));
         list.addAll(preorderTraversal(root.right));
-        //return the list
+        // return the list
         return list;
     }
 }
