@@ -1,5 +1,5 @@
 
-public class DetectCapital {
+public class Solution {
     public static boolean detectCapitalUse(String word) {
         String regex = "^([A-Z]+|[a-z]+|[A-Z][a-z]*)$";
         return (word.matches(regex));
