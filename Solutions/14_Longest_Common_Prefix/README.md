@@ -31,7 +31,7 @@ class Solution {
 
     // Initialize a variable to store the common prefix
     String commonPrefix = "";
-    // Iterate through the characters in the first and last string
+    // Iterate through the characters in the first and last String
 
     for (int i = 0; i < Math.min(firstStr.length(), lastStr.length()); i++) {
         // If the characters are the same, add it to the common prefix

@@ -5,6 +5,7 @@ class LongestCommonPrefix {
         if (strs.length == 0) {
             return "";
         }
+        
 
         // Sort the list of strings to make the search for the common prefix more
         // efficient
